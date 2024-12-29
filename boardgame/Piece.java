@@ -1,4 +1,4 @@
-package boardgame;
+package boardgame; //atualizacao
 
 public class Piece {
 

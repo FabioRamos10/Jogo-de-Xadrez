@@ -16,7 +16,7 @@ public class Position {
 		this.row = row;
 	}
 
-	public int getColumn() {
+	public int getColumn() {  //atualizacao
 		return column;
 	}
 

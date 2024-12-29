@@ -8,7 +8,7 @@ public class Board {
 
     public Board(int rows, int columns) {
         this.rows = rows;
-        this.columns = columns;
+        this.columns = columns; // atualizacao
         pieces = new Piece[rows][columns];
 
     }
