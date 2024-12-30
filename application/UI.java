@@ -1,6 +1,6 @@
 package application; // atualizacao
 
-import chess.ChessPiece;
+import Chess.ChessPiece;
 
 public class UI {
 
